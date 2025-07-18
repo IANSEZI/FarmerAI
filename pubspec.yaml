@@ -1,0 +1,41 @@
+name: farmer_ai_app
+description: A Farmer AI mobile application
+publish_to: 'none'
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.0
+  cloud_firestore: ^4.15.0
+  http: ^1.4.0
+  cupertino_icons: ^1.0.2
+  provider: ^6.0.0
+  google_fonts: ^6.1.0
+  font_awesome_flutter: ^10.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/pest_outbreak.jpg
+    - assets/coffee_export.jpg
+    - assets/rain_forecast.jpg
+    - assets/apples.jpg
+    - assets/beans.jpg
+    - assets/bananas.jpg
+    - assets/cassava.jpg
+    - assets/coffee.jpg
+    - assets/login_bg.jpg
+    - assets/maize.jpg
+    - assets/tea.jpg
+    - assets/cashewnuts.jpg
+    - assets/cotton.jpg
+    - assets/signup_bg.jpg
