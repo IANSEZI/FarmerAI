@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'news_detail_screen.dart';
+import 'widgets/main_scaffold.dart';
 
 class LatestNewsScreen extends StatelessWidget {
   final List<Map<String, String>> news = [
@@ -25,8 +26,9 @@ class LatestNewsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text('Latest News')),
+    return MainScaffold(
+      title: 'Latest News',
+      activeIndex: 2,
       body: ListView.builder(
         itemCount: news.length,
         itemBuilder: (context, index) {
