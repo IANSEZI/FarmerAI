@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'crop_dashboard_screen.dart';
-import 'widgets/contact_floating.dart';
+import 'widgets/main_scaffold.dart';
 
 class CropsDashboard extends StatelessWidget {
   final List<Map<String, String>> crops = [
@@ -17,8 +17,9 @@ class CropsDashboard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text('Select a Crop')),
+    return MainScaffold(
+      title: 'Select a Crop',
+      activeIndex: 0,
       body: GridView.builder(
         padding: const EdgeInsets.all(10),
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
@@ -64,7 +65,6 @@ class CropsDashboard extends StatelessWidget {
           );
         },
       ),
-      floatingActionButton: ContactFloating(),
     );
   }
 }
