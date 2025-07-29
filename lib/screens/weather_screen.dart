@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'widgets/main_scaffold.dart';
 
 class WeatherScreen extends StatelessWidget {
   final List<Map<String, String>> forecast = [
@@ -7,12 +8,15 @@ class WeatherScreen extends StatelessWidget {
     {'day': 'Wednesday', 'status': 'Cloudy', 'temp': '25°C'},
     {'day': 'Thursday', 'status': 'Thunderstorm', 'temp': '21°C'},
     {'day': 'Friday', 'status': 'Sunny', 'temp': '29°C'},
+    {'day': 'Saturday', 'status': 'Sunny', 'temp': '26°C'},
+    {'day': 'Sunday', 'status': 'Sunny', 'temp': '28°C'}
   ];
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      appBar: AppBar(title: Text('Weather Forecast')),
+    return MainScaffold(
+      title: 'Weather Forecast',
+      activeIndex: 0,
       body: ListView.builder(
         itemCount: forecast.length,
         itemBuilder: (context, index) {
