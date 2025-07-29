@@ -1,0 +1,61 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+StateError: Bad state: No element
+
+```
+```
+
+## flutter doctor
+
+```
+[32m[✓][39m Flutter (Channel stable, 3.32.5, on Microsoft Windows [Version 10.0.19045.6093], locale en-US) [1,236ms]
+    [32m•[39m Flutter version 3.32.5 on channel stable at C:\flutter
+    [32m•[39m Upstream repository https://github.com/flutter/flutter.git
+    [32m•[39m Framework revision fcf2c11572 (5 weeks ago), 2025-06-24 11:44:07 -0700
+    [32m•[39m Engine revision dd93de6fb1
+    [32m•[39m Dart version 3.8.1
+    [32m•[39m DevTools version 2.45.1
+
+[32m[✓][39m Windows Version (10 Pro 64-bit, 22H2, 2009) [5.7s]
+
+[31m[✗][39m Android toolchain - develop for Android devices [63ms]
+    [32m•[39m Android SDK at C:\Users\Gad Machine\AppData\Local\Android\sdk
+    [31m✗[39m cmdline-tools component is missing.
+      Try installing or updating Android Studio.
+      Alternatively, download the tools from https://developer.android.com/studio#command-line-tools-only and make sure to set the ANDROID_HOME
+      environment variable.
+      See https://developer.android.com/studio/command-line for more details.
+
+[32m[✓][39m Chrome - develop for the web [26ms]
+    [32m•[39m Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[31m[✗][39m Visual Studio - develop Windows apps [23ms]
+    [31m✗[39m Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[33m[!][39m Android Studio (not installed) [14ms]
+    [32m•[39m Android Studio not found; download from https://developer.android.com/studio/index.html
+      (or visit https://flutter.dev/to/windows-android-setup for detailed instructions).
+
+[32m[✓][39m VS Code (version 1.101.2) [12ms]
+    [32m•[39m VS Code at C:\Users\Gad Machine\AppData\Local\Programs\Microsoft VS Code
+    [32m•[39m Flutter extension version 3.115.20250701
+
+[32m[✓][39m Connected device (3 available) [280ms]
+    [32m•[39m Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.19045.6093]
+    [32m•[39m Chrome (web)      • chrome  • web-javascript • Google Chrome 138.0.7204.169
+    [32m•[39m Edge (web)        • edge    • web-javascript • Microsoft Edge 138.0.3351.95
+
+[32m[✓][39m Network resources [1,314ms]
+    [32m•[39m All expected network resources are available.
+
+[33m![39m Doctor found issues in 3 categories.
+```
