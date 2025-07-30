@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/material.dart'; 
 import 'news_detail_screen.dart';
 
 class FavoritesScreen extends StatelessWidget {
