@@ -23,7 +23,7 @@ class LatestNewsScreen extends StatelessWidget {
           'The meteorological department has forecasted heavy rains in the western region next week. Farmers should plan accordingly.',
     },
   ];
-
+//do not touch this
   @override
   Widget build(BuildContext context) {
     return MainScaffold(
