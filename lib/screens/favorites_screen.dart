@@ -15,7 +15,7 @@ class FavoritesScreen extends StatelessWidget {
       'details':
           'Heavy rains are forecasted in the western region next week...',
     },
-  ];
+  ]; #gideon
 
   @override
   Widget build(BuildContext context) {
