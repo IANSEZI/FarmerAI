@@ -1,4 +1,12 @@
+Our Website: https://gadlee.github.io/
+The application: https://farmerai-2ch4.onrender.com/
+ ![Link to FarmerAI Application](https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683)
+ ![FarmerAI Website (1)](https://github.com/user-attachments/assets/1f6fb968-30be-4282-a776-c33a048aa27e)
+
+
+ 
  **RUNNING THE CODE IN FLUTLAB (easier)**
+
 1. Go to https://flutlab.io/
 2. Sign in or create a free account.
 3. On your FlutLab dashboard, click New Project.
