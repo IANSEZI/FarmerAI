@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// Declaring the News widget
 class NewsDetailScreen extends StatelessWidget {
   final String title;
   final String details;
