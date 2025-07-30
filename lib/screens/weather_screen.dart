@@ -23,7 +23,7 @@ class WeatherScreen extends StatelessWidget {
           return Card(
             child: ListTile(
               leading: Icon(
-                forecast[index]['status'] == 'Sunny'
+                forecast[index]['status'] == 'Sunny' 
                     ? Icons.wb_sunny
                     : forecast[index]['status'] == 'Rainy'
                         ? Icons.grain
