@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'crop_dashboard_screen.dart';
 import 'widgets/main_scaffold.dart';
 
+
 class CropsDashboard extends StatelessWidget {
   final List<Map<String, String>> crops = [
     {'name': 'Maize', 'image': 'assets/maize.jpg'},
