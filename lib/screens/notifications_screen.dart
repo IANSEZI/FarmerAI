@@ -53,7 +53,7 @@ class NotificationsScreen extends StatelessWidget {
                           leading:
                               Icon(Icons.notifications, color: Colors.green),
                           title: Text(notifications[index]['title']!),
-                          subtitle: Text(notifications[index]['time']!),
+                          subtitle: Text(notifications[index]['time']!), 
                         ),
                       );
                     },
