@@ -5,7 +5,7 @@ import 'latest_news_screen.dart';
 import 'weather_screen.dart';
 import 'favorites_screen.dart';
 import 'settings_screen.dart';
-import 'widgets/contact_floating.dart';
+import 'widgets/contact_floating.dart'; 
 
 class MainNavigation extends StatefulWidget {
   @override
