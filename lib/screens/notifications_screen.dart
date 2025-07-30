@@ -9,7 +9,7 @@ class NotificationsScreen extends StatelessWidget {
     },
     {
       'title': 'New pest outbreak reported in Mbale.',
-      'time': 'Yesterday',
+      'time': 'Yesterday', 
     },
     {
       'title': 'Rainfall forecast updated for your area.',
