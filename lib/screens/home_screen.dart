@@ -14,7 +14,7 @@ class MainNavigation extends StatefulWidget {
 
 class _MainNavigationState extends State<MainNavigation> {
   int _selectedIndex = 0;
-//hhjinjbbhb
+//list of screens
   final List<Widget> _screens = [
     CropsDashboard(),
     LatestNewsScreen(),
