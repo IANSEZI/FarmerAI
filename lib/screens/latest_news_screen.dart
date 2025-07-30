@@ -60,3 +60,4 @@ class LatestNewsScreen extends StatelessWidget {
     );
   }
 }
+//
