@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
+// Import all screens
 import 'package:provider/provider.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
-// Import all screens
 import 'screens/app_settings.dart';
 import 'screens/login_screen.dart';
 import 'screens/notifications_screen.dart';
