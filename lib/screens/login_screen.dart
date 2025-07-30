@@ -15,7 +15,7 @@ class LoginScreen extends StatelessWidget {
                 'assets/login_bg.jpg'), // Placeholder background image
             fit: BoxFit.cover,
           ),
-        ),
+        ),//
         child: Center(
           child: Padding(
             padding: const EdgeInsets.all(20.0),
