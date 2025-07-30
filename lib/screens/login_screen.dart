@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'signup_screen.dart';
-import 'home_screen.dart'; // ✅ Import your HomeScreen here
+import 'home_screen.dart'; 
 
 class LoginScreen extends StatelessWidget {
   String email = '', password = '';
