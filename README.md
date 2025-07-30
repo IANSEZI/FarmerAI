@@ -1,10 +1,12 @@
-Our Website: https://gadlee.github.io/
-<img src="https://github.com/user-attachments/assets/1f6fb968-30be-4282-a776-c33a048aa27e" alt="FarmerAI Website (1)" width="150" style="display: block; margin-left: 0;" />
+## 🌐 Our Website  
+[https://gadlee.github.io/](https://gadlee.github.io/)  
+<img src="https://github.com/user-attachments/assets/1f6fb968-30be-4282-a776-c33a048aa27e" alt="FarmerAI Website Screenshot" width="400" />
 
-The application: https://farmerai-2ch4.onrender.com/
-<img src="https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683" alt="Link to FarmerAI Application" width="150" style="display: block; margin-left: 0;" />
+---
 
-
+## 🚜 The Application  
+[https://farmerai-2ch4.onrender.com/](https://farmerai-2ch4.onrender.com/)  
+<img src="https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683" alt="FarmerAI Application Screenshot" width="400" />
 
  
  **RUNNING THE CODE IN FLUTLAB (easier)**
