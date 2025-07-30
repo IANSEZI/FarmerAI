@@ -12,7 +12,7 @@ class NotificationsScreen extends StatelessWidget {
       'time': 'Yesterday', 
     },
     {
-      'title': 'Rainfall forecast updated for your area.',
+      'title': 'Rainfall forecast updated for your area.', 
       'time': '3 days ago',
     },
   ];
