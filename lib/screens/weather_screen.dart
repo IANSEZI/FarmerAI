@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+// importing the main_scaffold widget
 import 'widgets/main_scaffold.dart';
 
 class WeatherScreen extends StatelessWidget {
