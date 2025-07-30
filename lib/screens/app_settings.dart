@@ -57,7 +57,7 @@ class AppSettings extends ChangeNotifier {
         await prefs.setBool(key, value as bool);
         break;
       case double:
-        await prefs.setDouble(key, value as double);
+        await prefs.setDouble(key, value as double); 
         break;
       case int:
         await prefs.setInt(key, value as int);
