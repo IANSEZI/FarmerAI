@@ -6,7 +6,7 @@ class PredictionScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Placeholder ML prediction data
+    
     String prediction = 'Prediction feature coming soon. Stay tuned!';
 
     return Scaffold(
