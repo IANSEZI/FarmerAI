@@ -5,7 +5,7 @@ class AppSettings extends ChangeNotifier {
   bool _darkMode = false;
   double _fontSize = 16.0;
   Color _themeColor = Colors.green;
-  String _fontFamily = 'Default';
+  String _fontFamily = 'Default'; 
 
   // Keep all your existing getters
   bool get darkMode => _darkMode;
