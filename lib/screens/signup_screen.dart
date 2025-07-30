@@ -6,7 +6,7 @@ class SignupScreen extends StatefulWidget {
   @override  
   _SignupScreenState createState() => _SignupScreenState();
 }
-
+    
 class _SignupScreenState extends State<SignupScreen> {
   String fullName = '';
   String phoneNumber = '';
