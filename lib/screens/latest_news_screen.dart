@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//importing all other screens
 import 'news_detail_screen.dart';
 import 'widgets/main_scaffold.dart';
 
