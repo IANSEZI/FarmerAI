@@ -44,7 +44,7 @@ class FavoritesScreen extends StatelessWidget {
                             details: favorites[index]['details']!,
                             image: favorites[index]['image']!,
                           ),
-                        ),
+                        ), 
                       );
                     },
                   ),
