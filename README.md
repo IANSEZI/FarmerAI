@@ -1,7 +1,10 @@
 Our Website: https://gadlee.github.io/
 The application: https://farmerai-2ch4.onrender.com/
- ![Link to FarmerAI Application](https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683)
- ![FarmerAI Website (1)](https://github.com/user-attachments/assets/1f6fb968-30be-4282-a776-c33a048aa27e)
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683" alt="Link to FarmerAI Application" width="400"/>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/1f6fb968-30be-4282-a776-c33a048aa27e" alt="FarmerAI Website (1)" width="400"/>
+</p>
 
 
  
