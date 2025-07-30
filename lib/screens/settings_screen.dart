@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+
+// importing the other screens
 import 'package:provider/provider.dart';
 import 'app_settings.dart';
 import 'widgets/main_scaffold.dart';
