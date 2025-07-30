@@ -12,7 +12,7 @@ class _SignupScreenState extends State<SignupScreen> {
   String phoneNumber = '';
   String location = 'Kampala';
   String farmingType = 'Crop Farming';
-  String selectedPlant = 'Maize';
+  String selectedPlant = 'Maize';  
   String email = '';
   String password = '';
   String confirmPassword = '';
