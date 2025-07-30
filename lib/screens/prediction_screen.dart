@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class PredictionScreen extends StatelessWidget {
+class PredictionScreen extends StatelessWidget {  
   final String crop;
   PredictionScreen({required this.crop});
 
