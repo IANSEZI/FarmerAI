@@ -10,7 +10,7 @@ class PredictionScreen extends StatelessWidget {
     String prediction = 'Prediction feature coming soon. Stay tuned!';
 
     return Scaffold(
-      appBar: AppBar(title: Text('$crop Prediction')),
+      appBar: AppBar(title: Text('$crop Prediction')), 
       body: Center(
         child: Padding(
           padding: const EdgeInsets.all(20.0),
