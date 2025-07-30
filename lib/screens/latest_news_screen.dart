@@ -5,7 +5,7 @@ import 'widgets/main_scaffold.dart';
 class LatestNewsScreen extends StatelessWidget {
   final List<Map<String, String>> news = [
     {
-      'title': 'Pest outbreak in Mbale affecting Maize yields',
+      'title': 'Pest outbreak in Mbale affecting Maize yields', 
       'image': 'assets/pest_outbreak.jpg',
       'details':
           'A severe pest outbreak has been reported in Mbale district affecting maize yields. Farmers are advised to inspect their crops regularly and apply recommended pesticides.',
