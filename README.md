@@ -8,7 +8,42 @@
 [https://farmerai-2ch4.onrender.com/](https://farmerai-2ch4.onrender.com/)  
 <img src="https://github.com/user-attachments/assets/4ba80e07-1cc9-4e05-905f-3576d46c2683" alt="FarmerAI Application Screenshot" width="150" />
 
- 
+**FarmAI: Empowering Ugandan Farmers with AI-Driven Market Intelligence**
+...
+
+***Overview***
+FarmAI is a mobile application designed to support Ugandan smallholder farmers by providing data-driven market insights through AI-powered predictions, personalized crop dashboards, and real-time notifications. Built with Flutter for the front-end and Firebase for backend services, it addresses challenges like limited market access and reliance on middlemen, enabling farmers to optimize planting, harvesting, and selling decisions for crops like maize, coffee, and beans.
+Features
+
+AI-Powered Market Prediction: Forecasts crop prices, optimal planting/harvesting times, and regional demand using Prophet, LSTM, and classification models with data from UBOS, FAO, and World Bank.
+Localized News Aggregation: Summarizes agricultural news from MAAIF, trade reports, and weather bulletins using NLP for farmer-friendly updates.
+Personalized Crop Dashboard: Offers tailored insights on planting times, selling periods, and price ranges for selected crops, with historical data visualizations.
+Push Notifications: Alerts farmers to market changes, government policies, and optimal selling windows via Firebase.
+
+---
+***Installation***
+
+Clone the repository: git clone https://github.com/IANSEZI/FarmerAI.git
+Install Flutter: Follow instructions at flutter.dev
+Set up Firebase: Configure Firebase project and add google-services.json to /android/app
+Install dependencies: Run flutter pub get
+Run the app: Use flutter run on a connected device or emulator
+
+---
+***Usage***
+
+Farmers select crops to receive tailored insights.
+View predictions and news summaries on the dashboard.
+Receive push notifications for market and policy updates.
+
+---
+***Future Work***
+
+Pilot testing with farmers for feedback.
+Expand crop database and multilingual support.
+Enhance offline capabilities and scalability.
+
+ ---
  **RUNNING THE CODE IN FLUTLAB (easier)**
 
 1. Go to https://flutlab.io/
@@ -28,22 +63,6 @@
 15. If you get a package not found error, re-run Pub Get.
 16. Check that all dependencies are listed correctly in pubspec.yaml.
 
-**The rest of the readme file**
-
-# Farmai
-
-A new Flutter project created with FlutLab - https://flutlab.io
-
-## Getting Started
-
-A few resources to get you started if this is your first Flutter project:
-
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
-
-For help getting started with Flutter,
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Getting Started: FlutLab - Flutter Online IDE
 
@@ -74,7 +93,7 @@ Tech Stack
 
 Getting Started
 1. Clone the repository
-git clone https://github.com/IANSEZI/FarmerAI.git
+git clone 
 
 2. Install dependencies
 Using Flutter:
